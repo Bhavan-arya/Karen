@@ -24,6 +24,15 @@ breach went undetected.
 
 **Prerequisites:**  Node.js
 
+## Login credentials
+**Superadmin**
+Username: Admin
+Password: admin123
+
+**Employee**
+Username: Employee1
+Password: password123
+
 
 1. Install dependencies:
    `npm install`
