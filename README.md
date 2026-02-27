@@ -27,12 +27,15 @@ breach went undetected.
 ## Login credentials
 **Superadmin**
 Username: Admin
+
 Password: admin123
 
 **Employee**
 Username: Employee1
+
 Password: password123
 
+## Installation:
 
 1. Install dependencies:
    `npm install`
