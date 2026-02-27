@@ -1,12 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+**Karen**
+User Behavior Profiling & Anomaly Detection System (UBPADS)
 
-# Run and deploy your AI Studio app
+In the FinTechNow case, aƩackers gained access through compromised credenƟals from an
+earlier phishing aƩack. Since no system was monitoring login paƩerns or behavior, the
+breach went undetected.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/9f4817cf-ca48-4093-b47c-744a17d0da0e
 
 ## Run Locally
 
