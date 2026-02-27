@@ -124,7 +124,7 @@ export default function Login({ onLoginSuccess }: LoginProps) {
 
         <div className="text-center mb-8">
           <h1 className="text-2xl font-bold text-white mb-2">
-            FinTechNow Secure
+            Karen
           </h1>
           <p className="text-zinc-400 text-sm">UBPADS Authentication Gateway</p>
         </div>
