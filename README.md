@@ -3,8 +3,8 @@
 
 User Behavior Profiling & Anomaly Detection System (UBPADS)
 
-In the FinTechNow case, aƩackers gained access through compromised credenƟals from an
-earlier phishing aƩack. Since no system was monitoring login paƩerns or behavior, the
+In the FinTechNow case, Attackers gained access through compromised credentals from an
+earlier phishing aƩack. Since no system was monitoring login patterns or behavior, The
 breach went undetected.
 
 
